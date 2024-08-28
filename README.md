@@ -9,21 +9,21 @@ Welcome to the **Streamlit Deepface**, a collection of three simple web applicat
 - **Directory:** [`face_analysis`](face_analysis/)
 - **Description:** This application allows users to upload an image and receive an analysis of various facial attributes, including age, gender, race, and emotion.
 - **Demo Video:** [Watch Demo](link-to-demo-video)
-- **Readme:** [View Readme](face_analysis/README.md)
+- **Readme:** [View Readme](face_analysis/readme.md)
 
 ### 2. Facial Search Application
 
 - **Directory:** [`face_search`](face_search/)
 - **Description:** This application analyze facial features and find matching images from a specified directory. Users can upload an image and select a model for verification, allowing for a robust facial matching experience.
 - **Demo Video:** [Watch Demo](link-to-demo-video)
-- **Readme:** [View Readme](face_search/README.md)
+- **Readme:** [View Readme](face_search/readme.md)
 
 ### 3. Facial Verification Application
 
 - **Directory:** [`face_verification`](face_verification/)
 - **Description:** This application allows users to verify if two uploaded images belong to the same person using facial recognition technology. It provides a user-friendly interface for image uploads and displays verification results.
 - **Demo Video:** [Watch Demo](link-to-demo-video)
-- **Readme:** [View Readme](face_verification/README.md)
+- **Readme:** [View Readme](face_verification/readme.md)
 
 ## Getting Started
 
