@@ -8,7 +8,7 @@ import pandas as pd
 st.title("🎭 Facial Matching Application")
 
 # Directory path to search for matching images
-db_path = st.text_input("Enter the directory path to search for matching images:", value="./images")
+db_path = st.text_input("Enter the directory path to search for matching images:", value="../images")
 
 uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "jpeg", "png", "webp"])
 
