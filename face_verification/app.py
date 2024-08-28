@@ -22,7 +22,7 @@ models = [
     "GhostFaceNet",
 ]
 
-threshold = st.slider("Set verification threshold:", 0.0, 1.0, 0.68)
+threshold = st.slider("Set verification threshold:", 0.0, 1.0, 0.60)
 
 
 img_path1 = "img1.jpg"
